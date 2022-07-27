@@ -3,7 +3,11 @@
 package Calculator2;
 import java.awt.event.*;
         import javax.swing.*;
-        import java.awt.*;
+
+import org.junit.Test;
+
+
+import java.awt.*;
 class Calculator2 extends JFrame implements ActionListener {
     // create a frame
     static JFrame f;
@@ -225,8 +229,6 @@ class Calculator2 extends JFrame implements ActionListener {
  * testing webhook!
  * Webhook works
  * Jenkins Builds successfully
- * testing Jenkins Notification email!
- * testing Jenkins Notification email!
  *
  * */
 

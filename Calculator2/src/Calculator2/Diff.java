@@ -4,7 +4,6 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import Calculator2.Calculator2;
 
 public class Diff {
 
